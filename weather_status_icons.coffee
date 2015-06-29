@@ -6,28 +6,28 @@ module.exports =
     "#{chalk.bold.yellow '     .-.     '}",
     "#{chalk.bold.yellow '  ― (   ) ―  '}",
     "#{chalk.bold.yellow '     `-’     '}",
-    "#{chalk.bold.yellow '    /   \\   '}"
+    "#{chalk.bold.yellow '    /   \\    '}"
   ]
   iconPartlyCloudy: [
-    "#{chalk.bold.yellow '   \\  /      '}",
+    "#{chalk.bold.yellow '   \\  /        '}",
     "#{chalk.bold.yellow ' _ /\"\""'}#{chalk.bold.white '".-.    '}",
     "#{chalk.bold.yellow '   \\_"'}#{chalk.bold.white '"(   ).  '}",
-    "#{chalk.bold.yellow '   /"'}#{chalk.bold.white '"(___(__) '}",
+    "#{chalk.bold.yellow '   /"'}#{chalk.bold.white '"(___(__)   '}",
     "             "
   ]
   iconCloudy: [
-    "             ",
+    "              ",
     "#{chalk.bold.white '      .--.    '}",
     "#{chalk.bold.white '   .-(    ).  '}",
     "#{chalk.bold.white '  (___.__)__) '}",
-    "             "
+    "              "
   ]
   iconVeryCloudy: [
-    "             ",
-    "#{chalk.bold.gray '     .--.    '}",
-    "#{chalk.bold.gray '  .-(    ).  '}",
-    "#{chalk.bold.gray ' (___.__)__) '}",
-    "             "
+    "              ",
+    "#{chalk.bold.gray '     .--.     '}",
+    "#{chalk.bold.gray '  .-(    ).   '}",
+    "#{chalk.bold.gray ' (___.__)__)  '}",
+    "              "
   ]
   iconLightShowers: [
     "#{chalk.bold.yellow ' _`/\"\""'}#{chalk.bold.white '.-.    '}",
@@ -121,11 +121,11 @@ module.exports =
     "#{chalk.bold.white '   *'}#{chalk.bold.blue ' ‘ '}#{chalk.bold.white '*'}#{chalk.bold.blue ' ‘   '}"
   ]
   iconFog: [
-    "             '}",
+    "            ",
     "#{chalk.bold.white  '_ - _ - _ - '}",
     "#{chalk.bold.white  ' _ - _ - _  '}",
     "#{chalk.bold.white  '_ - _ - _ - '}",
-    "             "
+    "            "
   ]
   iconUnknown: [
     "#{chalk.bold.red '    .-.      '}",
