@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/destec/Node-Weather-CLI"
+    "type": "git",
+    "url": "https://github.com/destec/Node-Weather-CLI"
   },
   "keywords": [
     "weather",
@@ -20,6 +20,7 @@
   "dependencies": {
     "better-console": "^0.2.4",
     "chalk": "^1.0.0",
+    "cli-table": "^0.3.1",
     "lodash": "^3.9.3",
     "moment": "^2.10.3",
     "request-promise": "^0.4.2"
